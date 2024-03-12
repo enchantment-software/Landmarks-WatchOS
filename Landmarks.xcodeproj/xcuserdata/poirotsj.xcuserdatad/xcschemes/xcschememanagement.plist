@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Landmarks.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>WatchLandmarks Watch App.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>6C3C75B92BA0E17C002863E7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6C3C75C82BA0E17D002863E7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6C3C75D22BA0E17D002863E7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6CC260B82B55F34C00881BE9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6CC260C82B55F34D00881BE9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6CC260D22B55F34D00881BE9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
